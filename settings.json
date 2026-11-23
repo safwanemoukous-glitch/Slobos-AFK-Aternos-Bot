@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "legend-TDM.aternos.me",
-    "port": 25010,
+    "ip": "Hero-Craft.aternos.me",
+    "port": 19697,
     "version": "",
     "try-creative": false
   },
